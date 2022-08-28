@@ -1,0 +1,75 @@
+org_code,org_description,account_type,account_category,account_code,account_description,amount
+1000 - Administration,Administration,REVENUE,Other Revenues,6761,Reimbursements,40
+1000 - Administration,Administration,REVENUE,Other Revenues,6901,Miscellaneous Other Revenue,30
+3000 - Accountants,Accountants,REVENUE,Other Revenues,6761,Reimbursements,1500
+5000 - Payroll Office,Payroll Office,REVENUE,Charges for Services,6260,Service Fees-General,350
+1000 - Administration,Administration,EXPENSE,Personal Services,7020,Full Time Employees,225988
+1000 - Administration,Administration,EXPENSE,Personal Services,7105,Employers FICA,17419
+1000 - Administration,Administration,EXPENSE,Personal Services,7110,Hospitalization Insurance,36879
+1000 - Administration,Administration,EXPENSE,Personal Services,7115,Retiree Health Care-OPEB,27503
+1000 - Administration,Administration,EXPENSE,Personal Services,7120,Retirement Fund Contribution,53627
+1000 - Administration,Administration,EXPENSE,Personal Services,7135,Unemployment Compensation,316
+1000 - Administration,Administration,EXPENSE,Supplies,7520,Supplies,27775
+1000 - Administration,Administration,EXPENSE,Supplies,7910,Subscriptions and Publications,750
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,8010,Contractual Services,25000
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,8240,Fees,875
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,8450,Claims,16395
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,8500,Telephone,1200
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,8505,Employee Phone Reimbursement,-120
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,8510,Postage,10000
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,9100,Professional Development,7500
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,9110,Other Travel & Training,1000
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,9130,Local Business Expense,110
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,9150,Memberships,1500
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,9340,Maintenance Service,1000
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,9410,Equipment Rentals or Lease,1578
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,9430,Buildings Rentals or Lease-Facility Mgmt,92905
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,9450,311 Call Center Services,987
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,9470,Employee Parking,7074
+1000 - Administration,Administration,EXPENSE,Other Services and Charges,9480,Computer Services-from IT,704628
+2000 - Internal Audit,Internal Audit,EXPENSE,Personal Services,7020,Full Time Employees,80649
+2000 - Internal Audit,Internal Audit,EXPENSE,Personal Services,7105,Employers FICA,6231
+2000 - Internal Audit,Internal Audit,EXPENSE,Personal Services,7110,Hospitalization Insurance,12293
+2000 - Internal Audit,Internal Audit,EXPENSE,Personal Services,7115,Retiree Health Care-OPEB,9815
+2000 - Internal Audit,Internal Audit,EXPENSE,Personal Services,7120,Retirement Fund Contribution,19138
+2000 - Internal Audit,Internal Audit,EXPENSE,Personal Services,7135,Unemployment Compensation,113
+2000 - Internal Audit,Internal Audit,EXPENSE,Other Services and Charges,8010,Contractual Services,10000
+2000 - Internal Audit,Internal Audit,EXPENSE,Other Services and Charges,9100,Professional Development,500
+2000 - Internal Audit,Internal Audit,EXPENSE,Other Services and Charges,9150,Memberships,400
+2000 - Internal Audit,Internal Audit,EXPENSE,Other Services and Charges,9470,Employee Parking,1908
+3000 - Accountants,Accountants,EXPENSE,Personal Services,7020,Full Time Employees,571473
+3000 - Accountants,Accountants,EXPENSE,Personal Services,7105,Employers FICA,44155
+3000 - Accountants,Accountants,EXPENSE,Personal Services,7110,Hospitalization Insurance,98345
+3000 - Accountants,Accountants,EXPENSE,Personal Services,7115,Retiree Health Care-OPEB,69548
+3000 - Accountants,Accountants,EXPENSE,Personal Services,7120,Retirement Fund Contribution,135610
+3000 - Accountants,Accountants,EXPENSE,Personal Services,7135,Unemployment Compensation,800
+3000 - Accountants,Accountants,EXPENSE,Supplies,7910,Subscriptions and Publications,600
+3000 - Accountants,Accountants,EXPENSE,Other Services and Charges,9100,Professional Development,7500
+3000 - Accountants,Accountants,EXPENSE,Other Services and Charges,9110,Other Travel & Training,4000
+3000 - Accountants,Accountants,EXPENSE,Other Services and Charges,9150,Memberships,550
+3000 - Accountants,Accountants,EXPENSE,Other Services and Charges,9470,Employee Parking,11232
+4000 - Accounts Payable,Accounts Payable,EXPENSE,Personal Services,7020,Full Time Employees,166932
+4000 - Accounts Payable,Accounts Payable,EXPENSE,Personal Services,7105,Employers FICA,12898
+4000 - Accounts Payable,Accounts Payable,EXPENSE,Personal Services,7110,Hospitalization Insurance,36879
+4000 - Accounts Payable,Accounts Payable,EXPENSE,Personal Services,7115,Retiree Health Care-OPEB,20316
+4000 - Accounts Payable,Accounts Payable,EXPENSE,Personal Services,7120,Retirement Fund Contribution,39613
+4000 - Accounts Payable,Accounts Payable,EXPENSE,Personal Services,7135,Unemployment Compensation,234
+4000 - Accounts Payable,Accounts Payable,EXPENSE,Supplies,7520,Supplies,6000
+4000 - Accounts Payable,Accounts Payable,EXPENSE,Other Services and Charges,8010,Contractual Services,700
+4000 - Accounts Payable,Accounts Payable,EXPENSE,Other Services and Charges,8240,Fees,50
+4000 - Accounts Payable,Accounts Payable,EXPENSE,Other Services and Charges,9100,Professional Development,2500
+4000 - Accounts Payable,Accounts Payable,EXPENSE,Other Services and Charges,9150,Memberships,250
+4000 - Accounts Payable,Accounts Payable,EXPENSE,Other Services and Charges,9340,Maintenance Service,3100
+4000 - Accounts Payable,Accounts Payable,EXPENSE,Other Services and Charges,9470,Employee Parking,3036
+5000 - Payroll Office,Payroll Office,EXPENSE,Personal Services,7020,Full Time Employees,166509
+5000 - Payroll Office,Payroll Office,EXPENSE,Personal Services,7105,Employers FICA,12865
+5000 - Payroll Office,Payroll Office,EXPENSE,Personal Services,7110,Hospitalization Insurance,24586
+5000 - Payroll Office,Payroll Office,EXPENSE,Personal Services,7115,Retiree Health Care-OPEB,20264
+5000 - Payroll Office,Payroll Office,EXPENSE,Personal Services,7120,Retirement Fund Contribution,39513
+5000 - Payroll Office,Payroll Office,EXPENSE,Personal Services,7135,Unemployment Compensation,233
+5000 - Payroll Office,Payroll Office,EXPENSE,Supplies,7520,Supplies,750
+5000 - Payroll Office,Payroll Office,EXPENSE,Other Services and Charges,8010,Contractual Services,5000
+5000 - Payroll Office,Payroll Office,EXPENSE,Other Services and Charges,8510,Postage,100
+5000 - Payroll Office,Payroll Office,EXPENSE,Other Services and Charges,9100,Professional Development,4000
+5000 - Payroll Office,Payroll Office,EXPENSE,Other Services and Charges,9150,Memberships,400
+5000 - Payroll Office,Payroll Office,EXPENSE,Other Services and Charges,9470,Employee Parking,3816
